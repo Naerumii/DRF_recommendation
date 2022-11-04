@@ -1,6 +1,7 @@
 from dataclasses import field
 from rest_framework import serializers
 from articles.models import Article, Comment
+from turtle import update
 
 #유준 댓글
 #댓글 기본 시리얼라이저
@@ -36,7 +37,6 @@ class ArticleSerializer(serializers.ModelSerializer):
         model = Article
         fields = '__all__'
 
-#게시글 만들기 시리얼라이저 demo
 class ArticleCreateSerializer(serializers.ModelSerializer):
     class Meta:
         model = Article
@@ -50,7 +50,7 @@ class ArticleListSerializer(serializers.ModelSerializer):
     comments_count = serializers.SerializerMethodField()
     
     def get_user(self, obj):
-        return obj.user.email
+        return obj.user.username
 
     def get_likes_count(self, obj):
         return obj.likes.count()

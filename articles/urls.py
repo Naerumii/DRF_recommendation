@@ -1,6 +1,7 @@
 from django.urls import path
 from articles import views
 
+
 urlpatterns = [
     #댓글 url
     path('<int:article_id>/comment/', views.CommentView.as_view(), name='comment_view'),

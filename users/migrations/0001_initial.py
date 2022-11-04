@@ -8,9 +8,6 @@ class Migration(migrations.Migration):
 
     initial = True
 
-    dependencies = [
-    ]
-
     operations = [
         migrations.CreateModel(
             name='User',
@@ -21,7 +18,6 @@ class Migration(migrations.Migration):
                 ('email', models.EmailField(max_length=255, unique=True, verbose_name='email address')),
                 ('is_active', models.BooleanField(default=True)),
                 ('is_admin', models.BooleanField(default=False)),
-                ('followings', models.ManyToManyField(blank=True, related_name='followers', to=settings.AUTH_USER_MODEL)),
             ],
             options={
                 'abstract': False,

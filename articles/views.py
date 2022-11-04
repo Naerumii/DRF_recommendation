@@ -7,6 +7,7 @@ from articles.models import Article, Comment
 from django.db.models.query_utils import Q
 from articles.serializers import ArticleSerializer, ArticleListSerializer, ArticleCreateSerializer, CommentSerializer, CommentCreateSerializer
 
+
 #유준 댓글
 #댓글 불러오기, 댓글 달기
 class CommentView(APIView):
@@ -59,6 +60,7 @@ class ArticleView(APIView):
         return Response(serializer.data, status = status.HTTP_200_OK)
 
     #게시글 새로 쓰기
+
     def post(self, request):
         serializer = ArticleCreateSerializer(data=request.data)
         if serializer.is_valid():
@@ -66,6 +68,7 @@ class ArticleView(APIView):
             return Response(serializer.data, status=status.HTTP_200_OK)
         else:
             return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
+
 
 #팔로우 목록 보기 demo
 class FeedView(APIView):
@@ -85,15 +88,16 @@ class ArticleDetailView(APIView):
     #특정 게시글 불러오기(그냥보기)
     def get(self, request, article_id):
         #특정 아이디 값만 가져오기
+
+
         article = get_object_or_404(Article, id=article_id)
         serializer = ArticleSerializer(article)
         return Response(serializer.data, status=status.HTTP_200_OK)
 
-    #특정 게시글 수정하기
     def put(self, request, article_id):
+        # article = Article.objects.get(id=article_id)
         article = get_object_or_404(Article, id=article_id)
-        #본인인지 확인
-        if request.user == article.user:
+        if request.user == article.user: #접속자와 작성자가 다르면 수정못하게 에러코드 
             serializer = ArticleCreateSerializer(article, data=request.data)
             if serializer.is_valid():
                 serializer.save()
@@ -101,9 +105,8 @@ class ArticleDetailView(APIView):
             else:
                 return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
         else:
-            return Response("권한이 없습니다.", status=status.HTTP_403_FORBIDDEN)  
+            return Response("권한이 없습니다.", status=status.HTTP_403_FORBIDDEN)
 
-    #특정 게시글 지우기
     def delete(self, request, article_id):
         article = get_object_or_404(Article, id=article_id)
         if request.user == article.user:

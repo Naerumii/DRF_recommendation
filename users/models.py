@@ -1,22 +1,18 @@
 from django.db import models
-
-# Create your models here.
-from django.db import models
 from django.contrib.auth.models import (
     BaseUserManager, AbstractBaseUser
 )
 
 
 class UserManager(BaseUserManager):
-    def create_user(self, email, password=None):
-        """
-        Creates and saves a User with the given email, date of
-        birth and password.
-        """
-        if not email:
-            raise ValueError('Users must have an email address')
+    # 일반 user 생성
+    def create_user(self, username, email, password=None):
+
+        if not username:
+            raise ValueError('Users must have an username')
 
         user = self.model(
+            username = username,
             email=self.normalize_email(email),
         )
 
@@ -24,13 +20,11 @@ class UserManager(BaseUserManager):
         user.save(using=self._db)
         return user
 
-    def create_superuser(self, email, password=None):
-        """
-        Creates and saves a superuser with the given email, date of
-        birth and password.
-        """
+
+    def create_superuser(self, username, email, password=None):
         user = self.create_user(
-            email,
+            username=username,
+            email=email,
             password=password,
         )
         user.is_admin = True
@@ -39,23 +33,24 @@ class UserManager(BaseUserManager):
 
 
 class User(AbstractBaseUser):
-    email = models.EmailField(
-        verbose_name='email address',
-        max_length=255,
-        unique=True,
-    )
-    #self일때는 symmetrical(대칭)을 사용해야함
-    followings = models.ManyToManyField('self', symmetrical=False, related_name='followers', blank=True)
+    email = models.EmailField(verbose_name="email", max_length=255, blank=True, null=True)
+    username = models.CharField(verbose_name="username", max_length=20, blank=False, unique=True)
+    
+    
+    # User 모델의 필수 field
     is_active = models.BooleanField(default=True)
     is_admin = models.BooleanField(default=False)
-
+    
+    # 헬퍼 클래스 사용
     objects = UserManager()
-
-    USERNAME_FIELD = 'email'
-    REQUIRED_FIELDS = []
+    
+    #사용자의 USERUSERNAME_FIELD를 지정
+    USERNAME_FIELD = 'username'
+    # 필수로 작성해야하는 field
+    REQUIRED_FIELDS = ['email']
 
     def __str__(self):
-        return self.email
+        return self.username
 
     def has_perm(self, perm, obj=None):
         "Does the user have a specific permission?"
