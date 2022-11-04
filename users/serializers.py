@@ -11,7 +11,7 @@ class UserSerializer(serializers.ModelSerializer):
     def create(self, validated_data):
         user = super().create(validated_data)
         password = user.password
-        user.set_password(password)
+        user.set_password(password) # 해싱처리 되어 변환
         user.save()
         return user
 
@@ -31,5 +31,4 @@ class CustomTokenObtainPairSerializer(TokenObtainPairSerializer):
         # Add custom claims
         token['username'] = user.username
         # ...
-
         return token
