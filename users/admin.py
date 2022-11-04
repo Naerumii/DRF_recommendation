@@ -26,7 +26,6 @@ class UserCreationForm(forms.ModelForm):
         return password2
 
     def save(self, commit=True):
-        # Save the provided password in hashed format
         user = super().save(commit=False)
         user.set_password(self.cleaned_data["password1"])
         if commit:
@@ -45,6 +44,10 @@ class UserChangeForm(forms.ModelForm):
 class UserAdmin(BaseUserAdmin):
     form = UserChangeForm
     add_form = UserCreationForm
+
+
+admin.site.register(User, UserAdmin)
+admin.site.unregister(Group)
 
     list_display = ('username', 'email', 'is_admin')
     list_filter = ('is_admin',)

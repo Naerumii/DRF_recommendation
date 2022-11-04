@@ -22,7 +22,6 @@ class UserSerializer(serializers.ModelSerializer):
         user.save()
         return user
 
-
 class CustomTokenObtainPairSerializer(TokenObtainPairSerializer):
     @classmethod
     def get_token(cls, user):
