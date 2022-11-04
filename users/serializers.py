@@ -1,13 +1,11 @@
 from rest_framework import serializers
-from users.models import UserModel
+from users.models import User
 from rest_framework_simplejwt.serializers import TokenObtainPairSerializer
-
-
 
 
 class UserSerializer(serializers.ModelSerializer):
     class Meta:
-        model = UserModel
+        model = User
         fields = "__all__"
 
     def create(self, validated_data):
@@ -18,17 +16,19 @@ class UserSerializer(serializers.ModelSerializer):
         return user
 
     def update(self, validated_data):
-        user = super().update(validated_data)
+        user = super().create(validated_data)
         password = user.password
         user.set_password(password)
         user.save()
         return user
 
 
-class CustomMyTokenObtainPairSerializer(TokenObtainPairSerializer):
+class CustomTokenObtainPairSerializer(TokenObtainPairSerializer):
     @classmethod
     def get_token(cls, user):
         token = super().get_token(user)
-        token['username'] = user.username
 
+        # Add custom claims
+        token['username'] = user.username
+        # ...
         return token

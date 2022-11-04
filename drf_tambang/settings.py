@@ -8,9 +8,7 @@ https://docs.djangoproject.com/en/4.1/ref/settings/
 """
 
 import os, environ
-
 from datetime import timedelta
-
 from pathlib import Path
 from datetime import timedelta
 
@@ -30,11 +28,9 @@ SECRET_KEY = env('SECRET_KEY')
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
-
 ALLOWED_HOSTS = []
 
 # Application definition
-
 INSTALLED_APPS = [
     'rest_framework',
     'rest_framework_simplejwt',
@@ -80,7 +76,6 @@ TEMPLATES = [
         },
     },
 ]
-
 WSGI_APPLICATION = 'drf_tambang.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/4.1/ref/settings/#databases
@@ -109,11 +104,8 @@ AUTH_PASSWORD_VALIDATORS = [
 # Internationalization
 # https://docs.djangoproject.com/en/4.1/topics/i18n/
 LANGUAGE_CODE = 'ko-KR'
-
 TIME_ZONE = 'Asia/Seoul'
-
 USE_I18N = True
-
 USE_TZ = True
 
 # Static files (CSS, JavaScript, Images)
@@ -122,21 +114,9 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-AUTH_USER_MODEL = 'users.UserModel'
-
-REST_FRAMEWORK = {
-    'DEFAULT_AUTHENTICATION_CLASSES': (
-        'rest_framework_simplejwt.authentication.JWTAuthentication',
-    )
-}
-
 CORS_ALLOW_ALL_ORIGINS = True
 
-STATIC_ROOT = BASE_DIR / 'static'
-STATIC_URL = "/static/"
-
-MEDIA_ROOT = BASE_DIR / "media"
-MEDIA_URL = "/media/"
+AUTH_USER_MODEL = 'users.User'
 
 SIMPLE_JWT = {
     #토큰 기간(후에 배포할 때 수정)
@@ -171,6 +151,7 @@ SIMPLE_JWT = {
     'SLIDING_TOKEN_REFRESH_LIFETIME': timedelta(days=1),
 }
 CORS_ALLOW_ALL_ORIGINS = True
+
 #media,static 사용 가능 설정
 
 STATIC_ROOT = BASE_DIR / "static"

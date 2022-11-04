@@ -1,52 +1,66 @@
 from django.db import models
-from django.utils import timezone
-from django.contrib.auth.models import (
-    BaseUserManager, AbstractUser, PermissionsMixin
-)
+from django.contrib.auth.models import BaseUserManager, AbstractBaseUser
 
-# Register your models here.
+
 class UserManager(BaseUserManager):
-    def create_user(self, email, username, password):
-        
+    # 일반 user 생성
+    def create_user(self, username, email, password=None):
+
+        if not username:
+            raise ValueError('Users must have an username')
+
         user = self.model(
-            email=email,
-            username=username,
-            date_joined = timezone.now(),
-            is_superuser = 0,
-            is_staff = 0,
-            is_active = 1,
+            username = username,
+            email=self.normalize_email(email),
         )
+
         user.set_password(password)
         user.save(using=self._db)
         return user
 
     def create_superuser(self, username, email, password=None):
         user = self.create_user(
-            username,
-            email,
+            username=username,
+            email=email,
             password=password,
         )
-        user.is_superuser = True
-        user.is_staff = True
-        user.is_active = True
-        user.is_superuser = 1
-        user.is_staff = 1
+        user.is_admin = True
         user.save(using=self._db)
         return user
 
-class UserModel(AbstractUser, PermissionsMixin):
 
-    class Meta:
-        db_table = "my_user"
+class User(AbstractBaseUser):
+    email = models.EmailField(verbose_name="email", max_length=255, blank=True, null=True)
+    username = models.CharField(verbose_name="username", max_length=20, blank=False, unique=True)
     
-    password = models.CharField(max_length=128)
-    email = models.EmailField(max_length=255)
+    
+    # User 모델의 필수 field
     is_active = models.BooleanField(default=True)
-    is_staff = models.BooleanField(default=False)
-    is_superuser = models.BooleanField(default=False)
-    created_at = models.DateTimeField(auto_now_add=True)
-    updated_at = models.DateTimeField(auto_now=True)
+    is_admin = models.BooleanField(default=False)
+    
+    # 헬퍼 클래스 사용
     objects = UserManager()
+    
+    #사용자의 USERUSERNAME_FIELD를 지정
+    USERNAME_FIELD = 'username'
+    # 필수로 작성해야하는 field
+    REQUIRED_FIELDS = ['email']
 
     def __str__(self):
         return self.username
+
+    def has_perm(self, perm, obj=None):
+        "Does the user have a specific permission?"
+        # Simplest possible answer: Yes, always
+        return True
+
+    def has_module_perms(self, app_label):
+        "Does the user have permissions to view the app `app_label`?"
+        # Simplest possible answer: Yes, always
+        return True
+
+    @property
+    def is_staff(self):
+        "Is the user a member of staff?"
+        # Simplest possible answer: All admins are staff
+        return self.is_admin
