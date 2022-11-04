@@ -9,7 +9,9 @@ https://docs.djangoproject.com/en/4.1/ref/settings/
 import os, environ
 from datetime import timedelta
 from pathlib import Path
+
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
+
 BASE_DIR = Path(__file__).resolve().parent.parent
 env = environ.Env(
     # set casting, default value
@@ -21,6 +23,7 @@ environ.Env.read_env(
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 ALLOWED_HOSTS = []
+
 # Application definition
 INSTALLED_APPS = [
     'django.contrib.admin',
@@ -31,8 +34,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     #thirdparty
     'rest_framework',
-    'users',
     'rest_framework_simplejwt',
+    'users',
     'articles',
 ]
 MIDDLEWARE = [
@@ -49,6 +52,7 @@ REST_FRAMEWORK = {
         'rest_framework_simplejwt.authentication.JWTAuthentication',
     )
 }
+
 ROOT_URLCONF = 'drf_tambang.urls'
 TEMPLATES = [
     {
@@ -96,13 +100,16 @@ LANGUAGE_CODE = 'ko-KR'
 TIME_ZONE = 'Asia/Seoul'
 USE_I18N = True
 USE_TZ = True
+
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/4.1/howto/static-files/
 STATIC_URL = 'static/'
 # Default primary key field type
 # https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
 AUTH_USER_MODEL = 'users.User'
+
 SIMPLE_JWT = {
     #토큰 기간(후에 배포할 때 수정)
     'ACCESS_TOKEN_LIFETIME': timedelta(minutes=720),
@@ -131,9 +138,15 @@ SIMPLE_JWT = {
     'SLIDING_TOKEN_REFRESH_LIFETIME': timedelta(days=1),
 }
 CORS_ALLOW_ALL_ORIGINS = True
+
 #media,static 사용 가능 설정
+
 STATIC_ROOT = BASE_DIR / "static"
+
 STATIC_URL = "/static/"
+
 MEDIA_ROOT = BASE_DIR / "mdeia"
+
 MEDIA_URL = "/media/"
+
 SECRET_KEY = os.environ["SECRET_KEY"]
