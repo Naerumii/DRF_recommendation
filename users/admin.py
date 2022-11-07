@@ -6,9 +6,6 @@ from django.contrib.auth.forms import ReadOnlyPasswordHashField
 from django.core.exceptions import ValidationError
 from users.models import User
 
-admin.site.register(User, UserAdmin)
-admin.site.unregister(Group)
-
 class UserCreationForm(forms.ModelForm):
     password1 = forms.CharField(label='Password', widget=forms.PasswordInput)
     password2 = forms.CharField(label='Password confirmation', widget=forms.PasswordInput)
@@ -46,9 +43,6 @@ class UserAdmin(BaseUserAdmin):
     add_form = UserCreationForm
 
 
-admin.site.register(User, UserAdmin)
-admin.site.unregister(Group)
-
     list_display = ('username', 'email', 'is_admin')
     list_filter = ('is_admin',)
     fieldsets = (
@@ -66,3 +60,6 @@ admin.site.unregister(Group)
     search_fields = ('username',)
     ordering = ('username',)
     filter_horizontal = ()
+
+admin.site.register(User, UserAdmin)
+admin.site.unregister(Group)
