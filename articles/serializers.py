@@ -9,7 +9,7 @@ class CommentSerializer(serializers.ModelSerializer):
     #user를 email로 바꿔준다. user는 이제 email값이 된다.
     user = serializers.SerializerMethodField()
     def get_user(self, obj):
-        return obj.user.email
+        return obj.user.username
     
     class Meta:
         model = Comment
@@ -31,7 +31,7 @@ class ArticleSerializer(serializers.ModelSerializer):
     likes = serializers.StringRelatedField(many=True)
 
     def get_user(self, obj):
-        return obj.user.email
+        return obj.user.username
 
     class Meta:
         model = Article
@@ -40,7 +40,12 @@ class ArticleSerializer(serializers.ModelSerializer):
 class ArticleCreateSerializer(serializers.ModelSerializer):
     class Meta:
         model = Article
-        fields = ("title", "image", "content")
+        fields = ("title", "restaurants", "image", "content")
+
+class ArticleUpdateSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = Article
+        fields = ("title", "content")
 
 #게시글 목록 시리얼라이저 demo
 class ArticleListSerializer(serializers.ModelSerializer):
@@ -60,4 +65,4 @@ class ArticleListSerializer(serializers.ModelSerializer):
 
     class Meta:
         model = Article
-        fields = ("pk", "title", "image", "updated_at", "user", "likes_count", "comments_count")
+        fields = ("pk", "title", "image", "restaurants", "created_at", "user", "likes_count", "comments_count")

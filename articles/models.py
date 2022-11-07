@@ -5,6 +5,7 @@ from users.models import User
 class Article(models.Model):
     user = models.ForeignKey(User, on_delete=models.CASCADE)
     title = models.CharField(max_length=50)
+    restaurants = models.CharField(max_length=50)
     content = models.TextField()
     #미디어파일 업로드 위치설정
     image = models.ImageField(blank=True, upload_to='%Y/%m/')
