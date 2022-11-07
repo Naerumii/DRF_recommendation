@@ -33,6 +33,7 @@ INSTALLED_APPS = [
     "corsheaders",
     'articles',
     'users',
+    'recommend',
 
     'django.contrib.admin',
     'django.contrib.auth',
