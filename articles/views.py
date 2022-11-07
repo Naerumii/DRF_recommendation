@@ -20,7 +20,7 @@ class CommentView(APIView):
     def post(self, request, article_id):
         serializer = CommentCreateSerializer(data=request.data)
         if serializer.is_valid():
-            serializer.save(user=request.user, article_id=article_id    )
+            serializer.save(user=request.user, article_id=article_id)
             return Response(serializer.data, status=status.HTTP_200_OK)
         else:
             return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
