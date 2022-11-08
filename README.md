@@ -33,11 +33,11 @@
 <img src="https://user-images.githubusercontent.com/42130343/200447584-a804e3c6-9590-4252-abbc-d71f452d7ee0.png" width="80%">
 <img src="https://user-images.githubusercontent.com/42130343/200447592-0d10e985-f484-4d66-b978-4c7e6c500820.png" width="80%">
 
-## API 설계
-<img src="https://user-images.githubusercontent.com/42130343/200449837-fa4897fc-7d92-4c93-b413-803cef44d6fa.png" width="80%">
-
 ## DB 설계
 <img src="https://user-images.githubusercontent.com/112190737/200535026-ef3cff81-f24f-485b-8876-68a0d94f5d22.png" width="80%">
+
+## API 설계
+<img src="https://user-images.githubusercontent.com/42130343/200449837-fa4897fc-7d92-4c93-b413-803cef44d6fa.png" width="80%">
 
 ## 시연 영상
 https://www.youtube.com/watch?v=xTrNGh4_xM0
