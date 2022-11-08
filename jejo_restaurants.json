@@ -1,0 +1,2002 @@
+[
+    {
+      "storeId": 0,
+      "store_name": "미영이네식당",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/14929/765769_1501045132814_19649?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.7,
+      "store_category": "해산물 요리",
+      "store_address": "제주 모슬포/화순",
+      "store_view": "251,493",
+      "store_review": 106
+    },
+    {
+      "storeId": 1,
+      "store_name": "스시호시카이",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/183601/2079053_1633961991545_7055?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.6,
+      "store_category": "회 / 스시",
+      "store_address": "제주 제주시내",
+      "store_view": "181,103",
+      "store_review": 50
+    },
+    {
+      "storeId": 2,
+      "store_name": "남양수산",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/1799695_1620454174648977.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.6,
+      "store_category": "해산물 요리",
+      "store_address": "제주 성산/우도",
+      "store_view": "406,563",
+      "store_review": 112
+    },
+    {
+      "storeId": 3,
+      "store_name": "상춘재",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/sources/web/restaurants/183680/1062290_1594966931482?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.5,
+      "store_category": "한정식 / 백반 / 정통 한식",
+      "store_address": "제주 함덕/김녕",
+      "store_view": "473,004",
+      "store_review": 132
+    },
+    {
+      "storeId": 4,
+      "store_name": "숙성도",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/1514074_1595943058420449.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.5,
+      "store_category": "고기 요리",
+      "store_address": "제주 제주시내",
+      "store_view": "155,020",
+      "store_review": 81
+    },
+    {
+      "storeId": 5,
+      "store_name": "윌라라",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/189499/652152_1632044381392_13823?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.5,
+      "store_category": "시푸드 요리",
+      "store_address": "제주 성산/우도",
+      "store_view": "34,643",
+      "store_review": 18
+    },
+    {
+      "storeId": 6,
+      "store_name": "우연못",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/439151/rm2g1nkyclflkb.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.5,
+      "store_category": "카페 / 디저트",
+      "store_address": "제주 제주시내",
+      "store_view": "8,096",
+      "store_review": 8
+    },
+    {
+      "storeId": 7,
+      "store_name": "르부이부이",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/396373/1023176_1661954481426_83496?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.5,
+      "store_category": "프랑스 음식",
+      "store_address": "제주 제주시내",
+      "store_view": "8,695",
+      "store_review": 5
+    },
+    {
+      "storeId": 8,
+      "store_name": "논짓물",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/18705/8-oyultlnzzu_u.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.5,
+      "store_category": "한정식 / 백반 / 정통 한식",
+      "store_address": "제주 제주시내",
+      "store_view": "19,114",
+      "store_review": 12
+    },
+    {
+      "storeId": 9,
+      "store_name": "곰막",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/1840481_1632234938924790.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.4,
+      "store_category": "해산물 요리",
+      "store_address": "제주 함덕/김녕",
+      "store_view": "200,663",
+      "store_review": 94
+    },
+    {
+      "storeId": 10,
+      "store_name": "오드랑베이커리",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/added_restaurants/294426_1490510584369174.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.4,
+      "store_category": "베이커리",
+      "store_address": "제주 함덕/김녕",
+      "store_view": "110,315",
+      "store_review": 93
+    },
+    {
+      "storeId": 11,
+      "store_name": "중문수두리보말칼국수",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/478541_1526614739224087.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.4,
+      "store_category": "국수 / 면 요리",
+      "store_address": "제주 중문단지",
+      "store_view": "168,415",
+      "store_review": 75
+    },
+    {
+      "storeId": 12,
+      "store_name": "숙성도                                    (중문점)",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/1688629_1611661288162331.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.4,
+      "store_category": "(중문점)",
+      "store_address": "제주 중문단지",
+      "store_view": "42,713",
+      "store_review": 51
+    },
+    {
+      "storeId": 13,
+      "store_name": "맛나식당",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/1403730_1630062555674414.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.4,
+      "store_category": "한정식 / 백반 / 정통 한식",
+      "store_address": "제주 성산/우도",
+      "store_view": "156,634",
+      "store_review": 73
+    },
+    {
+      "storeId": 14,
+      "store_name": "밀리우                                    (제주해비치호텔)",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/added_restaurants/1427_1452169170238.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.4,
+      "store_category": "(제주해비치호텔)",
+      "store_address": "제주 표선/성읍",
+      "store_view": "101,057",
+      "store_review": 15
+    },
+    {
+      "storeId": 15,
+      "store_name": "제주맥주",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/1135678_1536996100991525.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.4,
+      "store_category": "치킨 / 호프 / 펍",
+      "store_address": "제주 한림/애월",
+      "store_view": "25,389",
+      "store_review": 19
+    },
+    {
+      "storeId": 16,
+      "store_name": "연리지가든",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/380175/1227868_1598766748729_15781?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.4,
+      "store_category": "고기 요리",
+      "store_address": "제주 한림/애월",
+      "store_view": "76,152",
+      "store_review": 24
+    },
+    {
+      "storeId": 17,
+      "store_name": "산노루",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/523935_1623160431393917.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.4,
+      "store_category": "카페 / 디저트",
+      "store_address": "제주 한림/애월",
+      "store_view": "49,329",
+      "store_review": 18
+    },
+    {
+      "storeId": 18,
+      "store_name": "토투가커피",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/355408/1544822_1626677074729_28458?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.4,
+      "store_category": "카페 / 디저트",
+      "store_address": "제주 한림/애월",
+      "store_view": "15,478",
+      "store_review": 11
+    },
+    {
+      "storeId": 19,
+      "store_name": "빵귿",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/40495_1618798325519918.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.4,
+      "store_category": "베이커리",
+      "store_address": "제주 제주시내",
+      "store_view": "27,476",
+      "store_review": 17
+    },
+    {
+      "storeId": 20,
+      "store_name": "표선어촌식당",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/18173/568376_1471087588504_6254?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.4,
+      "store_category": "해산물 요리",
+      "store_address": "제주 표선/성읍",
+      "store_view": "56,161",
+      "store_review": 22
+    },
+    {
+      "storeId": 21,
+      "store_name": "카페 귤꽃다락",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/626946_1624023615314464.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.4,
+      "store_category": "카페 / 디저트",
+      "store_address": "제주 서귀포시내",
+      "store_view": "13,347",
+      "store_review": 12
+    },
+    {
+      "storeId": 22,
+      "store_name": "복집식당",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/183377/1468743_1633427216344_71806?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.4,
+      "store_category": "기타 한식",
+      "store_address": "제주 제주시내",
+      "store_view": "13,551",
+      "store_review": 7
+    },
+    {
+      "storeId": 23,
+      "store_name": "제주선채향",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/417820/1536664_1634605018065_30585?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.4,
+      "store_category": "해산물 요리",
+      "store_address": "제주 모슬포/화순",
+      "store_view": "18,656",
+      "store_review": 11
+    },
+    {
+      "storeId": 24,
+      "store_name": "포도원흑돼지",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/460278_1530511217916235.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.4,
+      "store_category": "고기 요리",
+      "store_address": "제주 제주시내",
+      "store_view": "11,041",
+      "store_review": 11
+    },
+    {
+      "storeId": 25,
+      "store_name": "살찐고등어",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/131534_1625546780070032.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.4,
+      "store_category": "돈부리 / 일본 카레 / 벤토",
+      "store_address": "제주 함덕/김녕",
+      "store_view": "23,318",
+      "store_review": 12
+    },
+    {
+      "storeId": 26,
+      "store_name": "우진해장국",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/153948/114224_1495617984049_21416?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.3,
+      "store_category": "탕 / 찌개 / 전골",
+      "store_address": "제주 제주시내",
+      "store_view": "288,078",
+      "store_review": 374
+    },
+    {
+      "storeId": 27,
+      "store_name": "카페태희",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/150739/806990_1515055796397_573?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.3,
+      "store_category": "브런치 / 버거 / 샌드위치",
+      "store_address": "제주 한림/애월",
+      "store_view": "234,034",
+      "store_review": 107
+    },
+    {
+      "storeId": 28,
+      "store_name": "선흘곶",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/330896/828476_1501746541676_17768?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.3,
+      "store_category": "한정식 / 백반 / 정통 한식",
+      "store_address": "제주 함덕/김녕",
+      "store_view": "241,724",
+      "store_review": 97
+    },
+    {
+      "storeId": 29,
+      "store_name": "일통이반",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/added_restaurants/186440_1471230240712514.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.3,
+      "store_category": "해산물 요리",
+      "store_address": "제주 제주시내",
+      "store_view": "115,374",
+      "store_review": 62
+    },
+    {
+      "storeId": 30,
+      "store_name": "천짓골식당",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/942396_1591161097920260.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.3,
+      "store_category": "고기 요리",
+      "store_address": "제주 서귀포시내",
+      "store_view": "117,450",
+      "store_review": 54
+    },
+    {
+      "storeId": 31,
+      "store_name": "더스푼",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/680108_1494316552712920.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.3,
+      "store_category": "이탈리안",
+      "store_address": "제주 제주시내",
+      "store_view": "46,446",
+      "store_review": 22
+    },
+    {
+      "storeId": 32,
+      "store_name": "진아떡집",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/665695_1518619727538669.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.3,
+      "store_category": "카페 / 디저트",
+      "store_address": "제주 제주시내",
+      "store_view": "111,898",
+      "store_review": 83
+    },
+    {
+      "storeId": 33,
+      "store_name": "섭지코지로",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/1848213_1608871193696856.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.3,
+      "store_category": "해산물 요리",
+      "store_address": "제주 성산/우도",
+      "store_view": "76,668",
+      "store_review": 43
+    },
+    {
+      "storeId": 34,
+      "store_name": "넉둥베기",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/1322635_1592053614692341.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.3,
+      "store_category": "한정식 / 백반 / 정통 한식",
+      "store_address": "제주 제주시내",
+      "store_view": "64,594",
+      "store_review": 27
+    },
+    {
+      "storeId": 35,
+      "store_name": "하도핑크",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/1279529_1550403176756863.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.3,
+      "store_category": "이탈리안",
+      "store_address": "제주 함덕/김녕",
+      "store_view": "16,309",
+      "store_review": 8
+    },
+    {
+      "storeId": 36,
+      "store_name": "상원가든",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/210517/510078_1458352431066_1077?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.3,
+      "store_category": "고기 요리",
+      "store_address": "제주 모슬포/화순",
+      "store_view": "36,237",
+      "store_review": 18
+    },
+    {
+      "storeId": 37,
+      "store_name": "해심가든",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/15009/h70v8_wezv8wke.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.3,
+      "store_category": "고기 요리",
+      "store_address": "제주 중문단지",
+      "store_view": "81,152",
+      "store_review": 33
+    },
+    {
+      "storeId": 38,
+      "store_name": "제레미",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/335587/555873_1519530897207_7268?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.3,
+      "store_category": "카페 / 디저트",
+      "store_address": "제주 한림/애월",
+      "store_view": "25,287",
+      "store_review": 13
+    },
+    {
+      "storeId": 39,
+      "store_name": "엘코테",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/511866_1635817532071731.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.3,
+      "store_category": "스테이크 / 바베큐",
+      "store_address": "제주 제주시내",
+      "store_view": "6,472",
+      "store_review": 9
+    },
+    {
+      "storeId": 40,
+      "store_name": "화성식당",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/15328/1148532_1615533067507_13438?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.3,
+      "store_category": "한정식 / 백반 / 정통 한식",
+      "store_address": "제주 제주시내",
+      "store_view": "19,006",
+      "store_review": 17
+    },
+    {
+      "storeId": 41,
+      "store_name": "육고깃집",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/321918/520723_1494897003428_210245?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.3,
+      "store_category": "고기 요리",
+      "store_address": "제주 한림/애월",
+      "store_view": "26,392",
+      "store_review": 10
+    },
+    {
+      "storeId": 42,
+      "store_name": "바다를본돼지",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/191731/2037323_1630219858878_5920?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.3,
+      "store_category": "고기 요리",
+      "store_address": "제주 한림/애월",
+      "store_view": "11,131",
+      "store_review": 15
+    },
+    {
+      "storeId": 43,
+      "store_name": "하찌",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/413536/548266_1624849733357_35660?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.3,
+      "store_category": "회 / 스시",
+      "store_address": "제주 서귀포시내",
+      "store_view": "18,992",
+      "store_review": 8
+    },
+    {
+      "storeId": 44,
+      "store_name": "코코메아",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/445122/12258_1666421216095_1660897730728.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.3,
+      "store_category": "카페 / 디저트",
+      "store_address": "제주 제주시내",
+      "store_view": "3,282",
+      "store_review": 5
+    },
+    {
+      "storeId": 45,
+      "store_name": "서귀다원",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/428199/1921380_1622124448598_26387?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.3,
+      "store_category": "카페 / 디저트",
+      "store_address": "제주 서귀포시내",
+      "store_view": "34,566",
+      "store_review": 16
+    },
+    {
+      "storeId": 46,
+      "store_name": "동선제면가",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/425971/397785_1665234411558_33167?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.3,
+      "store_category": "국수 / 면 요리",
+      "store_address": "제주 서귀포시내",
+      "store_view": "5,261",
+      "store_review": 8
+    },
+    {
+      "storeId": 47,
+      "store_name": "비마이게스트",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/973239_1625534444025346.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.3,
+      "store_category": "브런치 / 버거 / 샌드위치",
+      "store_address": "제주 한림/애월",
+      "store_view": "24,574",
+      "store_review": 15
+    },
+    {
+      "storeId": 48,
+      "store_name": "선흘방주할머니식당",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/153938/589620_1470816881176_40846?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.3,
+      "store_category": "한정식 / 백반 / 정통 한식",
+      "store_address": "제주 함덕/김녕",
+      "store_view": "15,916",
+      "store_review": 13
+    },
+    {
+      "storeId": 49,
+      "store_name": "영해식당",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/27597_1597219483696552.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.3,
+      "store_category": "탕 / 찌개 / 전골",
+      "store_address": "제주 모슬포/화순",
+      "store_view": "12,471",
+      "store_review": 13
+    },
+    {
+      "storeId": 50,
+      "store_name": "은갈치김밥",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/397084/14650_1626506364562_18012?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.3,
+      "store_category": "기타 한식",
+      "store_address": "제주 제주시내",
+      "store_view": "19,989",
+      "store_review": 11
+    },
+    {
+      "storeId": 51,
+      "store_name": "커피템플",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/546909_1638867141711005.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.3,
+      "store_category": "카페 / 디저트",
+      "store_address": "제주 제주시내",
+      "store_view": "6,611",
+      "store_review": 9
+    },
+    {
+      "storeId": 52,
+      "store_name": "산지해장국",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/278544/101492_1482920310333_20242?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.3,
+      "store_category": "탕 / 찌개 / 전골",
+      "store_address": "제주 제주시내",
+      "store_view": "5,553",
+      "store_review": 10
+    },
+    {
+      "storeId": 53,
+      "store_name": "가는곶 세화",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/1981833_1664180825207261.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.3,
+      "store_category": "베이커리",
+      "store_address": "제주 함덕/김녕",
+      "store_view": "3,783",
+      "store_review": 8
+    },
+    {
+      "storeId": 54,
+      "store_name": "제주약수터                                    (올레시장점)",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/2094618_1655556712923670.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.3,
+      "store_category": "(올레시장점)",
+      "store_address": "제주 서귀포시내",
+      "store_view": "6,331",
+      "store_review": 8
+    },
+    {
+      "storeId": 55,
+      "store_name": "원담",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/321443/777405_1494336083738_17291?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.3,
+      "store_category": "해산물 요리",
+      "store_address": "제주 제주시내",
+      "store_view": "8,172",
+      "store_review": 15
+    },
+    {
+      "storeId": 56,
+      "store_name": "해왓",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/880231_1641308405371327.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.3,
+      "store_category": "한정식 / 백반 / 정통 한식",
+      "store_address": "제주 성산/우도",
+      "store_view": "12,180",
+      "store_review": 9
+    },
+    {
+      "storeId": 57,
+      "store_name": "리보스코화덕피자",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/18517/101492_1469281401919_14648?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.3,
+      "store_category": "이탈리안",
+      "store_address": "제주 제주시내",
+      "store_view": "5,172",
+      "store_review": 8
+    },
+    {
+      "storeId": 58,
+      "store_name": "풀사이드바                                    (신라호텔제주)",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/220834/672829_1559469894672_28378?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.3,
+      "store_category": "(신라호텔제주)",
+      "store_address": "제주 중문단지",
+      "store_view": "13,758",
+      "store_review": 8
+    },
+    {
+      "storeId": 59,
+      "store_name": "정성듬뿍제주국",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/766789_1523246630291253.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.3,
+      "store_category": "한정식 / 백반 / 정통 한식",
+      "store_address": "제주 제주시내",
+      "store_view": "5,839",
+      "store_review": 7
+    },
+    {
+      "storeId": 60,
+      "store_name": "금능샌드",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/926525_1535469067765855.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.3,
+      "store_category": "브런치 / 버거 / 샌드위치",
+      "store_address": "제주 한림/애월",
+      "store_view": "14,905",
+      "store_review": 8
+    },
+    {
+      "storeId": 61,
+      "store_name": "피즈",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/430626/1253803_1600048952555_27927?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.3,
+      "store_category": "브런치 / 버거 / 샌드위치",
+      "store_address": "제주 한림/애월",
+      "store_view": "9,048",
+      "store_review": 10
+    },
+    {
+      "storeId": 62,
+      "store_name": "코시롱",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/221715/wukvhkzynxtz48.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.3,
+      "store_category": "국수 / 면 요리",
+      "store_address": "제주 제주시내",
+      "store_view": "10,076",
+      "store_review": 10
+    },
+    {
+      "storeId": 63,
+      "store_name": "갓포아키                                    (제주도점)",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/1182605_1661500147302080.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.3,
+      "store_category": "(제주도점)",
+      "store_address": "제주 제주시내",
+      "store_view": "4,172",
+      "store_review": 6
+    },
+    {
+      "storeId": 64,
+      "store_name": "숙성도                                    (함덕점)",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/933725_1664425118130758.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.3,
+      "store_category": "(함덕점)",
+      "store_address": "제주 함덕/김녕",
+      "store_view": 778,
+      "store_review": 4
+    },
+    {
+      "storeId": 65,
+      "store_name": "다운타우너                                    (제주점)",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/2229495_1656418292841963.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.3,
+      "store_category": "(제주점)",
+      "store_address": "제주 한림/애월",
+      "store_view": "3,773",
+      "store_review": 5
+    },
+    {
+      "storeId": 66,
+      "store_name": "명진전복",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/619788_1509614607347655.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.2,
+      "store_category": "해산물 요리",
+      "store_address": "제주 함덕/김녕",
+      "store_view": "219,687",
+      "store_review": 203
+    },
+    {
+      "storeId": 67,
+      "store_name": "피어22",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/262650/24871_1511242710239_16073?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.2,
+      "store_category": "해산물 요리",
+      "store_address": "제주 한림/애월",
+      "store_view": "207,573",
+      "store_review": 91
+    },
+    {
+      "storeId": 68,
+      "store_name": "우유부단",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/260379/40403_1532084639907_19197?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.2,
+      "store_category": "카페 / 디저트",
+      "store_address": "제주 한림/애월",
+      "store_view": "42,466",
+      "store_review": 78
+    },
+    {
+      "storeId": 69,
+      "store_name": "그리운바다성산포",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/704301_1499961447202432.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.2,
+      "store_category": "해산물 요리",
+      "store_address": "제주 성산/우도",
+      "store_view": "59,225",
+      "store_review": 37
+    },
+    {
+      "storeId": 70,
+      "store_name": "미남미녀 (휴업중)",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/664857_1498411155717180.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.2,
+      "store_category": "카페 / 디저트",
+      "store_address": "제주 중문단지",
+      "store_view": "60,605",
+      "store_review": 14
+    },
+    {
+      "storeId": 71,
+      "store_name": "송림반점",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/1806055_1605497930761599.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.2,
+      "store_category": "정통 중식 / 일반 중식",
+      "store_address": "제주 제주시내",
+      "store_view": "41,154",
+      "store_review": 21
+    },
+    {
+      "storeId": 72,
+      "store_name": "ABC베이커리",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/396208/871103_1563464170422_33461?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.2,
+      "store_category": "베이커리",
+      "store_address": "제주 제주시내",
+      "store_view": "28,033",
+      "store_review": 15
+    },
+    {
+      "storeId": 73,
+      "store_name": "토템오어",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/1723486_1603883753873434.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.2,
+      "store_category": "카페 / 디저트",
+      "store_address": "제주 한림/애월",
+      "store_view": "13,260",
+      "store_review": 12
+    },
+    {
+      "storeId": 74,
+      "store_name": "더 캔버스                                    (롯데호텔제주점)",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/495395_1626243062806774.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.2,
+      "store_category": "(롯데호텔제주점)",
+      "store_address": "제주 중문단지",
+      "store_view": "5,444",
+      "store_review": 7
+    },
+    {
+      "storeId": 75,
+      "store_name": "섬모라                                    (제주해비치호텔)",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/added_restaurants/68_1444891063216.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.2,
+      "store_category": "(제주해비치호텔)",
+      "store_address": "제주 표선/성읍",
+      "store_view": "27,783",
+      "store_review": 15
+    },
+    {
+      "storeId": 76,
+      "store_name": "김희선몸국",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/1743214_1616980080612907.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.2,
+      "store_category": "한정식 / 백반 / 정통 한식",
+      "store_address": "제주 제주시내",
+      "store_view": "45,991",
+      "store_review": 40
+    },
+    {
+      "storeId": 77,
+      "store_name": "온오프",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/134162_1504750272263937.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.2,
+      "store_category": "까스 요리",
+      "store_address": "제주 성산/우도",
+      "store_view": "15,478",
+      "store_review": 17
+    },
+    {
+      "storeId": 78,
+      "store_name": "오롯 (휴업중)",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/328713/553783_1513565638568_158891?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.2,
+      "store_category": "한정식 / 백반 / 정통 한식",
+      "store_address": "제주 제주시내",
+      "store_view": "26,565",
+      "store_review": 14
+    },
+    {
+      "storeId": 79,
+      "store_name": "운산식당",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/232499/29726_1452157181557_26451?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.2,
+      "store_category": "고기 요리",
+      "store_address": "제주 제주시내",
+      "store_view": "20,501",
+      "store_review": 13
+    },
+    {
+      "storeId": 80,
+      "store_name": "광명식당",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/153930/1180388_1588819236478_11034?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.2,
+      "store_category": "탕 / 찌개 / 전골",
+      "store_address": "제주 제주시내",
+      "store_view": "37,572",
+      "store_review": 22
+    },
+    {
+      "storeId": 81,
+      "store_name": "어니스트밀크 치즈룸",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/679704_1624715704797187.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.2,
+      "store_category": "카페 / 디저트",
+      "store_address": "제주 성산/우도",
+      "store_view": "12,697",
+      "store_review": 9
+    },
+    {
+      "storeId": 82,
+      "store_name": "히노데",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/15423/kuer-5tjtdkmgy.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.2,
+      "store_category": "해산물 요리",
+      "store_address": "제주 중문단지",
+      "store_view": "11,587",
+      "store_review": 6
+    },
+    {
+      "storeId": 83,
+      "store_name": "대포칼제비",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/405642/1148532_1616127269815_13556?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.2,
+      "store_category": "국수 / 면 요리",
+      "store_address": "제주 서귀포시내",
+      "store_view": "14,052",
+      "store_review": 10
+    },
+    {
+      "storeId": 84,
+      "store_name": "큰돈가                                    (중문점)",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/2068598_1648868181793000.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.2,
+      "store_category": "(중문점)",
+      "store_address": "제주 중문단지",
+      "store_view": "7,602",
+      "store_review": 7
+    },
+    {
+      "storeId": 85,
+      "store_name": "순창갈비",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/220006/fbxr7wndod7x93.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.2,
+      "store_category": "고기 요리",
+      "store_address": "제주 제주시내",
+      "store_view": "14,323",
+      "store_review": 8
+    },
+    {
+      "storeId": 86,
+      "store_name": "제주 하멜",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/679704_1608777790433535.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.2,
+      "store_category": "베이커리",
+      "store_address": "제주 제주시내",
+      "store_view": "12,409",
+      "store_review": 9
+    },
+    {
+      "storeId": 87,
+      "store_name": "으뜨미",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/388200/259007_1630142628633_13773?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.2,
+      "store_category": "한정식 / 백반 / 정통 한식",
+      "store_address": "제주 제주시내",
+      "store_view": "7,535",
+      "store_review": 9
+    },
+    {
+      "storeId": 88,
+      "store_name": "만선바다",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/18434/140045_1448774490867_14289?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.2,
+      "store_category": "해산물 요리",
+      "store_address": "제주 제주시내",
+      "store_view": "9,575",
+      "store_review": 7
+    },
+    {
+      "storeId": 89,
+      "store_name": "감성돈                                    (제주협재점)",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/450675/1176502_1648639606007_149001?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.2,
+      "store_category": "(제주협재점)",
+      "store_address": "제주 한림/애월",
+      "store_view": "3,843",
+      "store_review": 6
+    },
+    {
+      "storeId": 90,
+      "store_name": "도렐                                    (본점)",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/725024_1555502267426119.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.1,
+      "store_category": "(본점)",
+      "store_address": "제주 성산/우도",
+      "store_view": "122,331",
+      "store_review": 155
+    },
+    {
+      "storeId": 91,
+      "store_name": "88돼지",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/18915/558856_1621165786962_433874?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.1,
+      "store_category": "고기 요리",
+      "store_address": "제주 제주시내",
+      "store_view": "334,952",
+      "store_review": 141
+    },
+    {
+      "storeId": 92,
+      "store_name": "올래국수                                    (본점)",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/15199/384116_1456805642323_996?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.1,
+      "store_category": "(본점)",
+      "store_address": "제주 제주시내",
+      "store_view": "175,194",
+      "store_review": 241
+    },
+    {
+      "storeId": 93,
+      "store_name": "신산리마을카페",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/1508867_1618540936642186.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.1,
+      "store_category": "카페 / 디저트",
+      "store_address": "제주 성산/우도",
+      "store_view": "140,599",
+      "store_review": 76
+    },
+    {
+      "storeId": 94,
+      "store_name": "춘심이네                                    (본점)",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/736760_1582441093282101.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.1,
+      "store_category": "(본점)",
+      "store_address": "제주 모슬포/화순",
+      "store_view": "184,659",
+      "store_review": 92
+    },
+    {
+      "storeId": 95,
+      "store_name": "국수만찬",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/added_restaurants/460278_1465163150840758.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.1,
+      "store_category": "국수 / 면 요리",
+      "store_address": "제주 제주시내",
+      "store_view": "192,979",
+      "store_review": 97
+    },
+    {
+      "storeId": 96,
+      "store_name": "블랑로쉐",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/220955/27066_1485015243054_30411?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.1,
+      "store_category": "카페 / 디저트",
+      "store_address": "제주 성산/우도",
+      "store_view": "45,274",
+      "store_review": 70
+    },
+    {
+      "storeId": 97,
+      "store_name": "오는정김밥",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/14998/mgo_kvotx2puli.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.1,
+      "store_category": "기타 한식",
+      "store_address": "제주 서귀포시내",
+      "store_view": "109,425",
+      "store_review": 136
+    },
+    {
+      "storeId": 98,
+      "store_name": "뽈살집                                    (본점)",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/333417_1629378581577537.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.1,
+      "store_category": "(본점)",
+      "store_address": "제주 서귀포시내",
+      "store_view": "90,073",
+      "store_review": 58
+    },
+    {
+      "storeId": 99,
+      "store_name": "더파크뷰",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/added_restaurants/1427_1452169538287.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.1,
+      "store_category": "뷔페",
+      "store_address": "제주 중문단지",
+      "store_view": "33,320",
+      "store_review": 32
+    },
+    {
+      "storeId": 100,
+      "store_name": "마노커피하우스",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/59110_1642087840848000.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.1,
+      "store_category": "카페 / 디저트",
+      "store_address": "제주 중문단지",
+      "store_view": "10,738",
+      "store_review": 9
+    },
+    {
+      "storeId": 101,
+      "store_name": "아줄레주",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/726810_1513264128652523.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.1,
+      "store_category": "카페 / 디저트",
+      "store_address": "제주 성산/우도",
+      "store_view": "16,857",
+      "store_review": 22
+    },
+    {
+      "storeId": 102,
+      "store_name": "바그다드",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/1134012_1580715215465877.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.1,
+      "store_category": "인도 음식",
+      "store_address": "제주 제주시내",
+      "store_view": "85,684",
+      "store_review": 65
+    },
+    {
+      "storeId": 103,
+      "store_name": "랜디스도넛                                    (제주직영점)",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/573810_1641303627133871.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.1,
+      "store_category": "(제주직영점)",
+      "store_address": "제주 한림/애월",
+      "store_view": "17,282",
+      "store_review": 33
+    },
+    {
+      "storeId": 104,
+      "store_name": "닻",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/added_restaurants/58228_1462029994540594.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.1,
+      "store_category": "일반 주점",
+      "store_address": "제주 한림/애월",
+      "store_view": "97,207",
+      "store_review": 35
+    },
+    {
+      "storeId": 105,
+      "store_name": "은희네해장국",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/15402/1482016_1610927340941_4907?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.1,
+      "store_category": "탕 / 찌개 / 전골",
+      "store_address": "제주 제주시내",
+      "store_view": "88,524",
+      "store_review": 84
+    },
+    {
+      "storeId": 106,
+      "store_name": "플레이스엉물",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/327913_1528379459757406.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.1,
+      "store_category": "카페 / 디저트",
+      "store_address": "제주 함덕/김녕",
+      "store_view": "21,954",
+      "store_review": 20
+    },
+    {
+      "storeId": 107,
+      "store_name": "풍로",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/444240/1151020_1657421953846_10207?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.1,
+      "store_category": "고기 요리",
+      "store_address": "제주 모슬포/화순",
+      "store_view": "6,045",
+      "store_review": 7
+    },
+    {
+      "storeId": 108,
+      "store_name": "카페록록",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/387976_1593845486413776.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.1,
+      "store_category": "카페 / 디저트",
+      "store_address": "제주 함덕/김녕",
+      "store_view": "11,433",
+      "store_review": 18
+    },
+    {
+      "storeId": 109,
+      "store_name": "한라산아래첫마을영농조합법인",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/27597_1628207341810103.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.1,
+      "store_category": "카페 / 디저트",
+      "store_address": "제주 모슬포/화순",
+      "store_view": "13,296",
+      "store_review": 15
+    },
+    {
+      "storeId": 110,
+      "store_name": "아베베베이커리",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/835806_1651459690756375.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.1,
+      "store_category": "베이커리",
+      "store_address": "제주 제주시내",
+      "store_view": "8,489",
+      "store_review": 13
+    },
+    {
+      "storeId": 111,
+      "store_name": "물항식당                                    (탑동점)",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/290723_1619258218823222.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.1,
+      "store_category": "(탑동점)",
+      "store_address": "제주 제주시내",
+      "store_view": "40,877",
+      "store_review": 25
+    },
+    {
+      "storeId": 112,
+      "store_name": "5L2F",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/511866_1607770771901882.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.1,
+      "store_category": "카페 / 디저트",
+      "store_address": "제주 함덕/김녕",
+      "store_view": "5,800",
+      "store_review": 7
+    },
+    {
+      "storeId": 113,
+      "store_name": "금박돈",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/729413_1613921421975676.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.1,
+      "store_category": "고기 요리",
+      "store_address": "제주 성산/우도",
+      "store_view": "30,733",
+      "store_review": 19
+    },
+    {
+      "storeId": 114,
+      "store_name": "스시우다",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/702118_1639660586958844.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.1,
+      "store_category": "회 / 스시",
+      "store_address": "제주 제주시내",
+      "store_view": "8,733",
+      "store_review": 11
+    },
+    {
+      "storeId": 115,
+      "store_name": "솔지식당",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/584169_1528792861237413.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.1,
+      "store_category": "고기 요리",
+      "store_address": "제주 제주시내",
+      "store_view": "51,012",
+      "store_review": 34
+    },
+    {
+      "storeId": 116,
+      "store_name": "고이정",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/1762253_1597049602985655.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.1,
+      "store_category": "고기 요리",
+      "store_address": "제주 한림/애월",
+      "store_view": "14,050",
+      "store_review": 16
+    },
+    {
+      "storeId": 117,
+      "store_name": "민경이네어등포해녀촌",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/257569/72711_1559040322312_18958?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.1,
+      "store_category": "한정식 / 백반 / 정통 한식",
+      "store_address": "제주 함덕/김녕",
+      "store_view": "58,904",
+      "store_review": 24
+    },
+    {
+      "storeId": 118,
+      "store_name": "낭뜰에쉼팡",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/added_restaurants/1427_1452263046630.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.1,
+      "store_category": "한정식 / 백반 / 정통 한식",
+      "store_address": "제주 함덕/김녕",
+      "store_view": "27,477",
+      "store_review": 24
+    },
+    {
+      "storeId": 119,
+      "store_name": "무상찻집 (휴업중)",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/351197/1247423_1606054332507_92421?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.1,
+      "store_category": "카페 / 디저트",
+      "store_address": "제주 제주시내",
+      "store_view": "13,711",
+      "store_review": 9
+    },
+    {
+      "storeId": 120,
+      "store_name": "판타스틱버거",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/598583_1642572870685017.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.1,
+      "store_category": "브런치 / 버거 / 샌드위치",
+      "store_address": "제주 표선/성읍",
+      "store_view": "8,943",
+      "store_review": 15
+    },
+    {
+      "storeId": 121,
+      "store_name": "제주약수터",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/1214190_1595337768049172.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.1,
+      "store_category": "치킨 / 호프 / 펍",
+      "store_address": "제주 서귀포시내",
+      "store_view": "15,866",
+      "store_review": 12
+    },
+    {
+      "storeId": 122,
+      "store_name": "카페살레",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/1869652_1611302003133397.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.1,
+      "store_category": "카페 / 디저트",
+      "store_address": "제주 성산/우도",
+      "store_view": "15,337",
+      "store_review": 14
+    },
+    {
+      "storeId": 123,
+      "store_name": "천일만두",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/546909_1641308289320796.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.1,
+      "store_category": "딤섬 / 만두",
+      "store_address": "제주 서귀포시내",
+      "store_view": "16,442",
+      "store_review": 10
+    },
+    {
+      "storeId": 124,
+      "store_name": "이스방한상",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/984138_1662974975858031.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.1,
+      "store_category": "해산물 요리",
+      "store_address": "제주 제주시내",
+      "store_view": "1,642",
+      "store_review": 5
+    },
+    {
+      "storeId": 125,
+      "store_name": "골목식당",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/153929/ywpb3ln6qfxdor.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.1,
+      "store_category": "국수 / 면 요리",
+      "store_address": "제주 제주시내",
+      "store_view": "5,114",
+      "store_review": 5
+    },
+    {
+      "storeId": 126,
+      "store_name": "가스름식당",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/1741085_1616662774206980.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.1,
+      "store_category": "고기 요리",
+      "store_address": "제주 표선/성읍",
+      "store_view": "18,068",
+      "store_review": 15
+    },
+    {
+      "storeId": 127,
+      "store_name": "모니카옛날통닭",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/219687/n1sh4y4uwcbmps.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.1,
+      "store_category": "닭 / 오리 요리",
+      "store_address": "제주 제주시내",
+      "store_view": "5,827",
+      "store_review": 5
+    },
+    {
+      "storeId": 128,
+      "store_name": "디앤디파트먼트 제주",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/854324_1649918177374556.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.1,
+      "store_category": "퓨전 한식",
+      "store_address": "제주 제주시내",
+      "store_view": "5,305",
+      "store_review": 6
+    },
+    {
+      "storeId": 129,
+      "store_name": "문치비                                    (본점)",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/498149/1429441_1663483803262_42192?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.1,
+      "store_category": "(본점)",
+      "store_address": "제주 서귀포시내",
+      "store_view": "2,510",
+      "store_review": 6
+    },
+    {
+      "storeId": 130,
+      "store_name": "블루버드",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/958610_1632743495635504.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.1,
+      "store_category": "치킨 / 호프 / 펍",
+      "store_address": "제주 제주시내",
+      "store_view": "5,571",
+      "store_review": 7
+    },
+    {
+      "storeId": 131,
+      "store_name": "이면",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/2035702_1639641152087360.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.1,
+      "store_category": "카페 / 디저트",
+      "store_address": "제주 한림/애월",
+      "store_view": "3,021",
+      "store_review": 6
+    },
+    {
+      "storeId": 132,
+      "store_name": "몰질식육식당",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/619088_1497935127460008.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.1,
+      "store_category": "해산물 요리",
+      "store_address": "제주 서귀포시내",
+      "store_view": "2,823",
+      "store_review": 7
+    },
+    {
+      "storeId": 133,
+      "store_name": "미스틱3도",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/341739_1666408920329752.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.1,
+      "store_category": "카페 / 디저트",
+      "store_address": "제주 제주시내",
+      "store_view": "5,344",
+      "store_review": 6
+    },
+    {
+      "storeId": 134,
+      "store_name": "금능낙원",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/18271/s3ekoulqp7nwcf.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.1,
+      "store_category": "국수 / 면 요리",
+      "store_address": "제주 한림/애월",
+      "store_view": "21,319",
+      "store_review": 11
+    },
+    {
+      "storeId": 135,
+      "store_name": "다정이네김밥                                    (신시가지점)",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/1170989_1664167077807052.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.1,
+      "store_category": "(신시가지점)",
+      "store_address": "제주 서귀포시내",
+      "store_view": 779,
+      "store_review": 4
+    },
+    {
+      "storeId": 136,
+      "store_name": "고궁보말손칼국수",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/288424_1656508913964529.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.1,
+      "store_category": "국수 / 면 요리",
+      "store_address": "제주 성산/우도",
+      "store_view": "7,603",
+      "store_review": 9
+    },
+    {
+      "storeId": 137,
+      "store_name": "삼대해녀의집",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/added_restaurants/541914_1462883348157288.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.1,
+      "store_category": "해산물 요리",
+      "store_address": "제주 성산/우도",
+      "store_view": "10,374",
+      "store_review": 8
+    },
+    {
+      "storeId": 138,
+      "store_name": "용두암해촌",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/15397/d2un37xkvfxuqh.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.1,
+      "store_category": "한정식 / 백반 / 정통 한식",
+      "store_address": "제주 제주시내",
+      "store_view": "7,975",
+      "store_review": 7
+    },
+    {
+      "storeId": 139,
+      "store_name": "듀포레",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/456505/397785_1665461816145_33270?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.1,
+      "store_category": "카페 / 디저트",
+      "store_address": "제주 제주시내",
+      "store_view": "1,925",
+      "store_review": 5
+    },
+    {
+      "storeId": 140,
+      "store_name": "대도식당",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/222184/cku6zr1vimdmgi.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4.1,
+      "store_category": "해산물 요리",
+      "store_address": "제주 서귀포시내",
+      "store_view": "4,757",
+      "store_review": 4
+    },
+    {
+      "storeId": 141,
+      "store_name": "자매국수                                    (본점)",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/15296/272147_1461540406482_9555?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4,
+      "store_category": "(본점)",
+      "store_address": "제주 제주시내",
+      "store_view": "102,466",
+      "store_review": 292
+    },
+    {
+      "storeId": 142,
+      "store_name": "협재수우동                                    (협재점)",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/added_restaurants/516849_1487688066805581.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4,
+      "store_category": "(협재점)",
+      "store_address": "제주 한림/애월",
+      "store_view": "83,733",
+      "store_review": 71
+    },
+    {
+      "storeId": 143,
+      "store_name": "가시아방국수",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/252334/934626_1519569720162_56432?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4,
+      "store_category": "국수 / 면 요리",
+      "store_address": "제주 성산/우도",
+      "store_view": "158,002",
+      "store_review": 105
+    },
+    {
+      "storeId": 144,
+      "store_name": "커피파인더",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/added_restaurants/514595_1465978440753136.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4,
+      "store_category": "카페 / 디저트",
+      "store_address": "제주 제주시내",
+      "store_view": "58,952",
+      "store_review": 61
+    },
+    {
+      "storeId": 145,
+      "store_name": "만선식당                                    (본점)",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/2014463_1626868902653280.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4,
+      "store_category": "(본점)",
+      "store_address": "제주 모슬포/화순",
+      "store_view": "171,958",
+      "store_review": 81
+    },
+    {
+      "storeId": 146,
+      "store_name": "칠돈가                                    (본점)",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/1433827_1597653466773813.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4,
+      "store_category": "(본점)",
+      "store_address": "제주 제주시내",
+      "store_view": "116,111",
+      "store_review": 71
+    },
+    {
+      "storeId": 147,
+      "store_name": "연동마라도",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/15368/98175_1486208226664_15581?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4,
+      "store_category": "해산물 요리",
+      "store_address": "제주 제주시내",
+      "store_view": "105,897",
+      "store_review": 53
+    },
+    {
+      "storeId": 148,
+      "store_name": "무거버거",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/697216_1507957483611385.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4,
+      "store_category": "브런치 / 버거 / 샌드위치",
+      "store_address": "제주 함덕/김녕",
+      "store_view": "47,217",
+      "store_review": 42
+    },
+    {
+      "storeId": 149,
+      "store_name": "마마롱",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/242028/445918_1455288072529_29863?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4,
+      "store_category": "베이커리",
+      "store_address": "제주 한림/애월",
+      "store_view": "59,305",
+      "store_review": 24
+    },
+    {
+      "storeId": 150,
+      "store_name": "글라글라하와이",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/282415/676193_1488199354676_34616?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4,
+      "store_category": "시푸드 요리",
+      "store_address": "제주 모슬포/화순",
+      "store_view": "24,055",
+      "store_review": 23
+    },
+    {
+      "storeId": 151,
+      "store_name": "돈사돈                                    (중문점)",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/243417/84396_1456031350504_6077?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4,
+      "store_category": "(중문점)",
+      "store_address": "제주 중문단지",
+      "store_view": "36,722",
+      "store_review": 29
+    },
+    {
+      "storeId": 152,
+      "store_name": "한라산",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/329410/488522_1599478712131_9070?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4,
+      "store_category": "카페 / 디저트",
+      "store_address": "제주 함덕/김녕",
+      "store_view": "18,551",
+      "store_review": 27
+    },
+    {
+      "storeId": 153,
+      "store_name": "씨리얼",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/21015_1506529732934258.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4,
+      "store_category": "카페 / 디저트",
+      "store_address": "제주 한림/애월",
+      "store_view": "16,671",
+      "store_review": 22
+    },
+    {
+      "storeId": 154,
+      "store_name": "고로케야 (휴업중)",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/150737/653907_1556787606853_14609?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4,
+      "store_category": "기타 일식",
+      "store_address": "제주 제주시내",
+      "store_view": "40,219",
+      "store_review": 38
+    },
+    {
+      "storeId": 155,
+      "store_name": "재연식당",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/182978/1234812_1549534843419_673?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4,
+      "store_category": "한정식 / 백반 / 정통 한식",
+      "store_address": "제주 함덕/김녕",
+      "store_view": "89,697",
+      "store_review": 43
+    },
+    {
+      "storeId": 156,
+      "store_name": "스모크하우스인구억",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/355833/2046274_1649118647729_101358?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4,
+      "store_category": "브런치 / 버거 / 샌드위치",
+      "store_address": "제주 모슬포/화순",
+      "store_view": "9,819",
+      "store_review": 9
+    },
+    {
+      "storeId": 157,
+      "store_name": "다니쉬",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/664803_1598776377167324.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4,
+      "store_category": "카페 / 디저트",
+      "store_address": "제주 함덕/김녕",
+      "store_view": "19,313",
+      "store_review": 16
+    },
+    {
+      "storeId": 158,
+      "store_name": "문개항아리                                    (애월점)",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/350433/803078_1615007014563_17238?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4,
+      "store_category": "(애월점)",
+      "store_address": "제주 한림/애월",
+      "store_view": "8,563",
+      "store_review": 10
+    },
+    {
+      "storeId": 159,
+      "store_name": "골막식당",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/523677_1620201079826812.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4,
+      "store_category": "국수 / 면 요리",
+      "store_address": "제주 제주시내",
+      "store_view": "40,755",
+      "store_review": 50
+    },
+    {
+      "storeId": 160,
+      "store_name": "더꽃돈",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/added_restaurants/25619_1452999842472.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4,
+      "store_category": "고기 요리",
+      "store_address": "제주 한림/애월",
+      "store_view": "54,959",
+      "store_review": 30
+    },
+    {
+      "storeId": 161,
+      "store_name": "와랑와랑",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/added_restaurants/525814_1472018637527179.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4,
+      "store_category": "카페 / 디저트",
+      "store_address": "제주 서귀포시내",
+      "store_view": "16,688",
+      "store_review": 20
+    },
+    {
+      "storeId": 162,
+      "store_name": "마고                                    (제주해비치호텔)",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/47875_1636600095415685.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4,
+      "store_category": "(제주해비치호텔)",
+      "store_address": "제주 표선/성읍",
+      "store_view": "28,450",
+      "store_review": 26
+    },
+    {
+      "storeId": 163,
+      "store_name": "어우늘",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/1415491_1598909923275688.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4,
+      "store_category": "해산물 요리",
+      "store_address": "제주 제주시내",
+      "store_view": "54,796",
+      "store_review": 24
+    },
+    {
+      "storeId": 164,
+      "store_name": "그러므로Part2",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/112634_1606865274131003.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4,
+      "store_category": "카페 / 디저트",
+      "store_address": "제주 제주시내",
+      "store_view": "11,927",
+      "store_review": 18
+    },
+    {
+      "storeId": 165,
+      "store_name": "다소니",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/15223/887355_1528691044510_60950?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4,
+      "store_category": "한정식 / 백반 / 정통 한식",
+      "store_address": "제주 제주시내",
+      "store_view": "16,969",
+      "store_review": 13
+    },
+    {
+      "storeId": 166,
+      "store_name": "레이지펌프",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/598583_1624799823457120.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4,
+      "store_category": "카페 / 디저트",
+      "store_address": "제주 한림/애월",
+      "store_view": "12,639",
+      "store_review": 15
+    },
+    {
+      "storeId": 167,
+      "store_name": "효퇴국수국밥",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/460278_1493095127241562.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4,
+      "store_category": "국수 / 면 요리",
+      "store_address": "제주 제주시내",
+      "store_view": "32,831",
+      "store_review": 26
+    },
+    {
+      "storeId": 168,
+      "store_name": "망고레이                                    (섭지코지점)",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/1592769_1586693067597091.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4,
+      "store_category": "(섭지코지점)",
+      "store_address": "제주 성산/우도",
+      "store_view": "31,464",
+      "store_review": 27
+    },
+    {
+      "storeId": 169,
+      "store_name": "미엘드세화",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/182957/442306_1515073839863_265432?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4,
+      "store_category": "카페 / 디저트",
+      "store_address": "제주 함덕/김녕",
+      "store_view": "15,487",
+      "store_review": 15
+    },
+    {
+      "storeId": 170,
+      "store_name": "섬오름해물라면",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/352605/1784978_1614693063393_22867?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4,
+      "store_category": "기타 한식",
+      "store_address": "제주 함덕/김녕",
+      "store_view": "42,970",
+      "store_review": 19
+    },
+    {
+      "storeId": 171,
+      "store_name": "맛있는폴부엌",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/343782/814854_1518253659124_48487?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4,
+      "store_category": "이탈리안",
+      "store_address": "제주 한림/애월",
+      "store_view": "9,050",
+      "store_review": 9
+    },
+    {
+      "storeId": 172,
+      "store_name": "시골길",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/112555_1606397429562357.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4,
+      "store_category": "해산물 요리",
+      "store_address": "제주 제주시내",
+      "store_view": "39,015",
+      "store_review": 41
+    },
+    {
+      "storeId": 173,
+      "store_name": "포차                                    (그랜드하얏트제주점)",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/984138_1662974746971223.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4,
+      "store_category": "(그랜드하얏트제주점)",
+      "store_address": "제주 제주시내",
+      "store_view": "2,503",
+      "store_review": 5
+    },
+    {
+      "storeId": 174,
+      "store_name": "용왕난드르",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/1142580_1541926103365600.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4,
+      "store_category": "국수 / 면 요리",
+      "store_address": "제주 모슬포/화순",
+      "store_view": "15,658",
+      "store_review": 15
+    },
+    {
+      "storeId": 175,
+      "store_name": "신설오름포장마차",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/546909_1618553480563429.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4,
+      "store_category": "탕 / 찌개 / 전골",
+      "store_address": "제주 제주시내",
+      "store_view": "22,990",
+      "store_review": 38
+    },
+    {
+      "storeId": 176,
+      "store_name": "웅담식당",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/183864/kzxgulzywmjstj.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4,
+      "store_category": "고기 요리",
+      "store_address": "제주 서귀포시내",
+      "store_view": "24,431",
+      "store_review": 12
+    },
+    {
+      "storeId": 177,
+      "store_name": "안녕육지사람                                    (본점)",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/1042769_1528123584451293.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4,
+      "store_category": "(본점)",
+      "store_address": "제주 성산/우도",
+      "store_view": "19,334",
+      "store_review": 13
+    },
+    {
+      "storeId": 178,
+      "store_name": "페를로",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/1840481_1649075185461882.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4,
+      "store_category": "이탈리안",
+      "store_address": "제주 모슬포/화순",
+      "store_view": "5,813",
+      "store_review": 11
+    },
+    {
+      "storeId": 179,
+      "store_name": "평대스낵",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/added_restaurants/565774_1465299790596607.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4,
+      "store_category": "기타 한식",
+      "store_address": "제주 함덕/김녕",
+      "store_view": "78,558",
+      "store_review": 29
+    },
+    {
+      "storeId": 180,
+      "store_name": "경일낙지",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/15200/677963_1502441039467_131442?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4,
+      "store_category": "해산물 요리",
+      "store_address": "제주 제주시내",
+      "store_view": "56,581",
+      "store_review": 26
+    },
+    {
+      "storeId": 181,
+      "store_name": "범일분식",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/added_restaurants/609990_1472829993589289.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4,
+      "store_category": "기타 한식",
+      "store_address": "제주 서귀포시내",
+      "store_view": "27,438",
+      "store_review": 12
+    },
+    {
+      "storeId": 182,
+      "store_name": "볕이드는곳벧디",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/339361/821047_1512913961832_4686?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4,
+      "store_category": "카페 / 디저트",
+      "store_address": "제주 제주시내",
+      "store_view": "12,296",
+      "store_review": 10
+    },
+    {
+      "storeId": 183,
+      "store_name": "윈드스톤",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/263418/w3vomc54ui_3hx.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4,
+      "store_category": "카페 / 디저트",
+      "store_address": "제주 한림/애월",
+      "store_view": "11,928",
+      "store_review": 15
+    },
+    {
+      "storeId": 184,
+      "store_name": "당당",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/573810_1626793665487319.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4,
+      "store_category": "카페 / 디저트",
+      "store_address": "제주 한림/애월",
+      "store_view": "9,513",
+      "store_review": 7
+    },
+    {
+      "storeId": 185,
+      "store_name": "회춘",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/403644/37208_1666965286367_16569?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4,
+      "store_category": "한정식 / 백반 / 정통 한식",
+      "store_address": "제주 함덕/김녕",
+      "store_view": "4,896",
+      "store_review": 9
+    },
+    {
+      "storeId": 186,
+      "store_name": "난드르바당",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/2015405_1626948541572588.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4,
+      "store_category": "고기 요리",
+      "store_address": "제주 서귀포시내",
+      "store_view": "21,404",
+      "store_review": 12
+    },
+    {
+      "storeId": 187,
+      "store_name": "부뚜막식당",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/835806_1651539171882709.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4,
+      "store_category": "한정식 / 백반 / 정통 한식",
+      "store_address": "제주 성산/우도",
+      "store_view": "12,380",
+      "store_review": 11
+    },
+    {
+      "storeId": 188,
+      "store_name": "흑돼지BBQ",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/222094/1399388_1629784153425_10901?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4,
+      "store_category": "고기 요리",
+      "store_address": "제주 서귀포시내",
+      "store_view": "9,485",
+      "store_review": 12
+    },
+    {
+      "storeId": 189,
+      "store_name": "휴일로",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/598583_1642572798250132.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4,
+      "store_category": "카페 / 디저트",
+      "store_address": "제주 모슬포/화순",
+      "store_view": "4,525",
+      "store_review": 9
+    },
+    {
+      "storeId": 190,
+      "store_name": "옥돔식당",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/added_restaurants/533186_1460975213162775.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4,
+      "store_category": "국수 / 면 요리",
+      "store_address": "제주 모슬포/화순",
+      "store_view": "25,947",
+      "store_review": 23
+    },
+    {
+      "storeId": 191,
+      "store_name": "장수물식당",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/47875_1623282787754711.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4,
+      "store_category": "국수 / 면 요리",
+      "store_address": "제주 제주시내",
+      "store_view": "12,859",
+      "store_review": 18
+    },
+    {
+      "storeId": 192,
+      "store_name": "이스트포레스트",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/1797655_1602561066688399.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4,
+      "store_category": "브런치 / 버거 / 샌드위치",
+      "store_address": "제주 함덕/김녕",
+      "store_view": "12,366",
+      "store_review": 9
+    },
+    {
+      "storeId": 193,
+      "store_name": "우리수산",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/887188_1657237460911117.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4,
+      "store_category": "해산물 요리",
+      "store_address": "제주 제주시내",
+      "store_view": "1,710",
+      "store_review": 6
+    },
+    {
+      "storeId": 194,
+      "store_name": "바다바라",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/1858553_1666842727513704.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4,
+      "store_category": "카페 / 디저트",
+      "store_address": "제주 중문단지",
+      "store_view": "6,732",
+      "store_review": 7
+    },
+    {
+      "storeId": 195,
+      "store_name": "낭푼밥상",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/added_restaurants/713155_1504695714940095.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4,
+      "store_category": "한정식 / 백반 / 정통 한식",
+      "store_address": "제주 제주시내",
+      "store_view": "13,738",
+      "store_review": 8
+    },
+    {
+      "storeId": 196,
+      "store_name": "그옛맛",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/18560/1423683_1625928346573_6992?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4,
+      "store_category": "해산물 요리",
+      "store_address": "제주 제주시내",
+      "store_view": "14,417",
+      "store_review": 13
+    },
+    {
+      "storeId": 197,
+      "store_name": "비브레이브                                    (서호점)",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/1766542_1597548522013118.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4,
+      "store_category": "(서호점)",
+      "store_address": "제주 서귀포시내",
+      "store_view": "19,936",
+      "store_review": 11
+    },
+    {
+      "storeId": 198,
+      "store_name": "꽃가람",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/1170989_1620702006432220.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4,
+      "store_category": "국수 / 면 요리",
+      "store_address": "제주 성산/우도",
+      "store_view": "7,680",
+      "store_review": 8
+    },
+    {
+      "storeId": 199,
+      "store_name": "바당한그릇",
+      "store_image": "https://mp-seoul-image-production-s3.mangoplate.com/598583_1664452517948028.jpg?fit=around|359:240&crop=359:240;*,*&output-format=jpg&output-quality=80",
+      "store_rating": 4,
+      "store_category": "해산물 요리",
+      "store_address": "제주 한림/애월",
+      "store_view": "2,916",
+      "store_review": 6
+    }
+  ]
